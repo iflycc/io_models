@@ -1,0 +1,17 @@
+{
+    "name": "iflycc/io",
+    "description": "swoole study io",
+    "type": "library",
+    "authors": [
+        {
+            "name": "iflycc",
+            "email": "454536221@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Cc\\Io\\":"./src/"
+        }
+    }
+}
